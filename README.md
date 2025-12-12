@@ -31,13 +31,3 @@ public class Hello{
 }
 ```
 
-<div style="background:#1E3A8A; padding:15px; border-radius:8px; color:white; font-family:monospace;">
-<pre>
-#include <stdio.h>
-int main() {
-    printf("Hello World!\n");
-    return 0;
-}
-</pre>
-</div>
-
