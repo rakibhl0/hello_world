@@ -22,3 +22,11 @@ useing namespace std
   return 0;
 }
 ```
+### Hello Wold in **_Java_**
+```
+public class Hello{
+  public static void main(String[] args){
+    System.out.println("Hello Wold!");
+  }
+}
+```
