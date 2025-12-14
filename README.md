@@ -30,4 +30,17 @@ public class Hello{
   }
 }
 ```
+### Hello Wold in **_GO_**
+```
+package main
 
+import "fmt"
+
+func main() {
+    fmt.Println("Hello, World!")
+}
+```
+### Hello Wold in **_Python_**
+```
+print("Hello World!!! 😄")
+```
